@@ -1,7 +1,7 @@
 defmodule MinuteNervesSystemRpi4.MixProject do
   use Mix.Project
 
-  @github_organization "aslade"
+  @github_organization "alexslade"
   @app :minute_nerves_system_rpi4
   @version Path.join(__DIR__, "VERSION")
            |> File.read!()
